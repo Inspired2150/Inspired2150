@@ -13,15 +13,13 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Generate Languages SVG
-      uses: cicirello/user-statistician@v1.1
+      uses: cicirello/user-statistician@v1.23.0
       with:
         hide_languages: false
         languages_max: 8
         languages_threshold: 1
         svg_dark_mode: true
         animate_languages_chart: true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use built-in for public
     - name: Commit SVG
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
