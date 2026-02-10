@@ -1,1 +1,1 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=Inspired250)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inspired2150&layout=compact&theme=dracula&hide_title=true)
