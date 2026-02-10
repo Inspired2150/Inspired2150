@@ -1,5 +1,23 @@
 ![Languages](https://github-readme-stats-tan-six-58.vercel.app/api/top-langs/?username=Inspired2150&layout=compact&theme=dracula&cache_seconds=86400)<br>
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=dracula&cache_seconds=86400)<br>
+
+1.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=1-dark&cache_seconds=86400)
+2.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=3-nord&cache_seconds=86400)
+3.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=6-tokyo-night&cache_seconds=86400)
+4.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=13-neon&cache_seconds=86400)
+5.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=15-dracula&cache_seconds=86400)
+6.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=20-kanagawa&cache_seconds=86400)
+7.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=23-shades-of-purple&cache_seconds=86400)
+8.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=24-vscode&cache_seconds=86400)
+9.  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=27%20charting&cache_seconds=86400)
+10. ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=30%20dark-mono&cache_seconds=86400)
+
+
+
+
+
+
+
 #![Stats](https://github-readme-stats-tan-six-58.vercel.app/api?username=Inspired2150&show_icons=true&theme=dracula&cache_seconds=86400)<br>
 
 
