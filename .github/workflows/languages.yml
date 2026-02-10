@@ -4,24 +4,26 @@ on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
-  push:
-    paths:
-      - 'README.md'
 
 jobs:
-  update:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - id: analytics
-        uses: jdanko/language-analytics@main
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-      - name: Save Chart
-        run: echo '${{ steps.analytics.outputs.chart_svg }}' > languages.svg
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'Update languages pie chart'
-          file_pattern: languages.svg
+    - uses: actions/checkout@v4
+    - name: Generate Languages SVG
+      uses: cicirello/user-statistician@v1.1
+      with:
+        hide_languages: false
+        languages_max: 8
+        languages_threshold: 1
+        svg_dark_mode: true
+        animate_languages_chart: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use built-in for public
+    - name: Commit SVG
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: 'Update languages pie'
+        file_pattern: '*.svg'
