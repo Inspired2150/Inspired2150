@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inspired2150)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inspired2150&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide_title=true)
