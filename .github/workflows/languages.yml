@@ -1,8 +1,6 @@
 name: Languages Pie Chart
 
 on:
-  schedule:
-    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,9 +17,9 @@ jobs:
         hide-keys: general,repositories,contributions
         animated-language-chart: true
         max-languages: 8
-        language-repository-exclusions: ""  # Add this line
+        language-repository-exclusions: ""
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Your private PAT
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: 'Update languages pie'
