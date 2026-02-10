@@ -15,7 +15,7 @@
 [![PSADT](https://img.shields.io/badge/PSADT-0078D4?style=for-the-badge&logo=powershell&logoColor=white)](https://psappdeploytoolkit.com)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)]
+[![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 [![MariaDB](https://img.shields.io/badge/MariaDB-0031A9?style=for-the-badge&logo=mariadb&logoColor=white)]
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-E08327?style=for-the-badge&logo=influxdb&logoColor=white)]
 [![Telegraf](https://img.shields.io/badge/Telegraf-F26522?style=for-the-badge&logo=influxdata&logoColor=white)]
