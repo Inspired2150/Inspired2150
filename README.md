@@ -1,16 +1,7 @@
-![Languages](https://github-readme-stats-tan-six-58.vercel.app/api/top-langs/?username=Inspired2150&layout=compact&theme=dracula&cache_seconds=86400)<br>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=dracula&cache_seconds=86400)<br>
+![Languages](https://github-readme-stats-tan-six-58.vercel.app/api/top-langs/?username=Inspired2150&layout=compact&theme=gruvbox&cache_seconds=86400)<br>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=gruvbox&cache_seconds=86400)<br>
+![Highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=gruvbox&cache_seconds=86400)
 
-1. ![Dark](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=dark&cache_seconds=86400)
-2. ![Dracula](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=dracula&cache_seconds=86400)
-3. ![Radical](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=radical&cache_seconds=86400)
-4. ![Nord](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=nord&cache_seconds=86400)
-5. ![Gruvbox](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=gruvbox&cache_seconds=86400)
-6. ![Highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=highcontrast&cache_seconds=86400)
-7. ![Transparent](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=transparent&cache_seconds=86400)
-8. ![Merko](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=merko&cache_seconds=86400)
-9. ![Onedark](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=onedark&cache_seconds=86400)
-10. ![Tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=Inspired2150&theme=tokyonight&cache_seconds=86400)
 
 
 
