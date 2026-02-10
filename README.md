@@ -12,9 +12,9 @@
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-[![MariaDB](https://img.shields.io/badge/MariaDB-0031A9?style=for-the-badge&logo=mariadb&logoColor=white)]
-[![InfluxDB](https://img.shields.io/badge/InfluxDB-E08327?style=for-the-badge&logo=influxdb&logoColor=white)]
-[![Telegraf](https://img.shields.io/badge/Telegraf-F26522?style=for-the-badge&logo=influxdata&logoColor=white)]
+![MariaDB](https://img.shields.io/badge/MariaDB-0031A9?style=for-the-badge&logo=mariadb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-E08327?style=for-the-badge&logo=influxdb&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-F26522?style=for-the-badge&logo=influxdata&logoColor=white)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
 
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41C6E3?style=for-the-badge&logo=homeassistant&logoColor=black)](https://home-assistant.io)
