@@ -12,14 +12,16 @@ jobs:
       contents: write
     steps:
     - uses: actions/checkout@v4
-    - name: Generate Languages SVG
+    - name: Generate Languages
       uses: cicirello/user-statistician@v1.23.0
       with:
         image-file: languages.svg
         hide-keys: general,repositories,contributions
         animated-language-chart: true
         max-languages: 8
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Your private PAT
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: 'Update languages pie'
-        file_pattern: '*.svg'
+        file_pattern: languages.svg
