@@ -1,0 +1,27 @@
+name: Languages Pie Chart
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:  # Enables manual trigger
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - id: analytics
+        uses: jdanko/language-analytics@main
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+      - name: Save Chart
+        run: echo '${{ steps.analytics.outputs.chart_svg }}' > languages.svg
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update languages pie chart'
+          file_pattern: languages.svg
